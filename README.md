@@ -16,5 +16,5 @@
    
 ## **Change Log**:
 
-- 2023.02.10
+- **2023.02.10**
 	- Released first version (0.0.1)
