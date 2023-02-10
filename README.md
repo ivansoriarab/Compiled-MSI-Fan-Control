@@ -12,7 +12,7 @@
    * Command-line utility
 
 * **MSIFanControl**
-   * App (GUI)
+   * App with GUI (in Chinese)
    
 ## **Change Log**:
 
