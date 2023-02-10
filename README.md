@@ -11,7 +11,7 @@
 * **MSIECControl**
    * Command-line utility
 
-* **MSIFanControl**
+* **MSIFanControl.app**
    * App with GUI (in Chinese)
    
 ## **Change Log**:
